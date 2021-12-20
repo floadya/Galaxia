@@ -13,9 +13,6 @@
     <a href="https://github.com/DarkSkull93/Galaxia/network/members"> <img src="https://img.shields.io/github/stars/levina-lab/video-stream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
-## 📊 Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/DarkSkull93/Galaxia/badge)](https://www.codefactor.io/repository/github/DarkSkull93/Galaxia)
-
 ## 🧪 Get `SESSION_NAME` from below:
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@DarkSkull93/DemonGirl#main.py) ``Pyrogram``
