@@ -91,4 +91,4 @@ python3 main.py # run the bot.
 - [Saheth Perera](https://github.com/PereraSehath) ``Dev``
 
 ### Support & Updates 🎑
-<a href="https://t.me/GalaxiaUpdateGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/GalaxiaUpdateGroup"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/GalaxiaSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/GalaxiaUpdateChannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
