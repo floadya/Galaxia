@@ -19,7 +19,7 @@
 
 ## 🎭 Preview
 <p align="center">
-  <img src="https://telegra.ph/file/d0a037b885b22ca53260b.jpg">
+  <img src="https://telegra.ph/file/24a13e19fb16a246fd996.jpg">
 </p>
 
 ## ✨ Features
