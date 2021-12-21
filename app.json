@@ -8,7 +8,7 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/GalaxiaSupportChannel",
+    "website": "https://t.me/GalaxiaUpdateChannel",
     "repository": "https://github.com/DarkSkull93/Galaxia",
     "success_url": "https://t.me/Dark_Sheha",
     "env": {
@@ -25,7 +25,7 @@
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "your bot username from @BotFather",
+            "description": "your bot username Without @ ",
             "required": true
         },
         "BOT_NAME": {
@@ -52,7 +52,7 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "GalaxiaSupportChannel"
+            "value": "GalaxiaUpdateChannel"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
